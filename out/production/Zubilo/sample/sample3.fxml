@@ -10,7 +10,7 @@
     <children>
         <ImageView blendMode="LIGHTEN" fitHeight="500.0" fitWidth="126.0" opacity="0.92" pickOnBounds="true" preserveRatio="true">
             <image>
-                <Image url="@../assets/37706%20—%20копия.png" />
+                <Image url="@../assets/37706.png" />
             </image></ImageView>
         <Button fx:id="naz1" layoutX="17.0" layoutY="459.0" mnemonicParsing="false" onAction="#SwitchToScene" opacity="0.95" prefHeight="25.0" prefWidth="92.0" style="-fx-background-color: #333; -fx-text-fill: #fff; -fx-border-color: #000;" text="Назад">
             <font>

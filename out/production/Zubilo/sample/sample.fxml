@@ -11,7 +11,7 @@
    <children>
       <ImageView blendMode="LIGHTEN" fitHeight="500.0" fitWidth="126.0" opacity="0.92" pickOnBounds="true" preserveRatio="true">
          <image>
-            <Image url="@../assets/37706%20—%20копия.png" />
+            <Image url="@../assets/37706.png" />
          </image></ImageView>
       <Label layoutX="668.0" layoutY="14.0" text="Developed by Vasiliy Novikov" textFill="WHITE">
          <font>
